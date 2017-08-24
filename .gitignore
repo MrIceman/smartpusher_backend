@@ -7,6 +7,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Socket file uwsgi
+pusher.sock
+pusher.ini
+
 # Distribution / packaging
 .idea/
 .Python
