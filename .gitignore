@@ -1,18 +1,19 @@
+local.py
+db.sqlite3
+.DS_Store
+bin/
+include/
+pip-selfcheck.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-
 # C extensions
 *.so
 
-# Socket file uwsgi
-pusher.sock
-pusher.ini
-
 # Distribution / packaging
-.idea/
 .Python
 build/
 develop-eggs/

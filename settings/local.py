@@ -24,12 +24,8 @@ SECRET_KEY = '*=e_@-)_w!e(h8+^czl3dv+1yg#ealm0n3-c=o$b9p4*t0-#lh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD:settings/local.py
-ALLOWED_HOSTS = ['192.168.178.20']
-=======
 ALLOWED_HOSTS = ['localhost', 'smart-pusher.com', '127.0.0.1']
 
->>>>>>> 0c8ec414e1a03308469363663fc411fab7035c78:pusher/settings.py
 
 # Application definition
 CORS_REPLACE_HTTPS_REFERER = False
