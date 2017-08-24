@@ -12,7 +12,7 @@ from rest_framework import mixins
 
 
 def index(request):
-    return HttpResponse("Hello")
+    return HttpResponse("<h1>Welcome to the Gates of the Pusher-Backend.</h1>")
 
 
 class PropertyGetter(APIView):
